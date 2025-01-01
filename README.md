@@ -1,1 +1,1 @@
-# kandji-scripts
+# Kandji Scripts
